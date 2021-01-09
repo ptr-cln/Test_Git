@@ -11,6 +11,8 @@ public class TestGit {
 
 		
 		System.out.println("Another commit from new branch");
+		
+		System.out.println("Another Commit from new_branch_2");
 	}
 
 }
