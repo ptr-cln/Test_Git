@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("Test modifica altro account");
 		
 		System.out.println("And this is the new branch! ");
+		System.out.println("Another commit from master");
 
 	}
 
