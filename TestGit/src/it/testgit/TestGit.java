@@ -6,11 +6,7 @@ public class TestGit {
 
 		System.out.println("Test modifica altro account");
 		
-		//Prova modifica
 		
-		if(true) {
-			System.out.println("Ciao");
-		}
 
 	}
 
