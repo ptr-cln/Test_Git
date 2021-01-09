@@ -14,7 +14,11 @@ public class TestGit {
 		
 		System.out.println("Another Commit from new_branch_2");
 		
+
+		System.out.println("Commit from new_branch_3 (Testing conflict)");
+
 		System.out.println("Commit from main (Testing conflict)");
+
 	}
 
 }
