@@ -7,7 +7,7 @@ public class TestGit {
 		System.out.println("This is a stoopid test");
 		
 		
-		System.out.println("And this is the new branch!");
+		System.out.println("And this is the new branch! ");
 
 	}
 
